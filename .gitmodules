@@ -1,0 +1,3 @@
+[submodule "types/sn_typings_client_scoped"]
+	path = types/sn_typings_client_scoped
+	url = https://github.com/erwinel/sn_typings_client_scoped.git

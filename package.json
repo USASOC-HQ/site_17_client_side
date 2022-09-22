@@ -1,0 +1,20 @@
+{
+  "name": "site_17_client_side",
+  "version": "1.0.0",
+  "description": "TypeScript sources for Site 17 Client-Side Scripts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/USASOC-HQ/site_17_client_side.git"
+  },
+  "scripts": {
+    "build": "tsc --build - source/tsconfig.json",
+    "clean": "tsc --build --clean - source/tsconfig.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonard T. Erwine",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/USASOC-HQ/site_17_client_side/issues"
+  },
+  "homepage": "https://github.com/USASOC-HQ/site_17_client_side#readme"
+}
