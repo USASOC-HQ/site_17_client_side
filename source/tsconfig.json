@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "module": "none",
+    "target": "es6",
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "allowJs": false,
+    "lib": [ "es6", "DOM" ],
+    "moduleResolution": "node",
+    "typeRoots": [
+      "../types/sn_typings_client_scoped/node_modules/@types",
+      "../types/sn_typings_client_scoped/dist"
+    ],
+    "outDir": "../transpiled"
+  },
+}
